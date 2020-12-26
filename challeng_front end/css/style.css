@@ -1,0 +1,111 @@
+
+.container-fluid{
+    background-color: #228be6;
+    /*margin-top: 2px;*/
+}
+.container-fluid a{
+    color: white;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    background-color: #228be6;
+    padding: 5px 5px;
+    color: white;
+    font: bolder;
+    font-size: 12px;
+    position: relative;
+}
+.logo .nombre{
+    font-size: 22px;
+    position: absolute;
+    top: 12px;
+}
+.special{
+    background-color: lightblue;
+    padding:0px 6px;
+    margin: 0.5rem 0.5rem;
+    border-radius: 5px;
+}
+.notification{
+    margin-top: 0px;
+    background-color: #191970;
+    color: white;
+}
+.notification a{
+   text-decoration: none;
+}
+
+.article{
+    margin-top: 40px;
+}
+.h1 a{
+    text-decoration: none;
+    color: black;
+}
+.info_en_continue{
+    background-color: #eceff4;
+    opacity: 0.6;
+    margin-bottom: auto;
+}
+.info_en_continue .h2{
+    background-color:black;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    padding: 2px 0px;
+    text-transform: uppercase;
+}
+.info_en_continue a{
+    text-decoration: none;
+    text-align: justify;
+    color: black;
+}
+.line_2{
+    margin-top: 40px;
+}
+.card-text a{
+    text-decoration: none;
+}
+.card-text .titre{
+    color: black;
+}
+.brexit-covid a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #228be6;
+    color: white;
+}
+.focus a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #228be6;
+    color: white;
+}
+.rétro_2020 a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #228be6;
+    color: white;
+}
+.entretient a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #228be6;
+    color: white;
+}
+.card-text{
+    font-size: 20px;
+}
+.time{
+    background-color: #228be6;
+    color: white;
+    text-transform: uppercase;
+    padding: 5px;
+}
+.actualité a{
+    margin-top: 40px;
+    text-decoration: none;
+    color: #191970;
+}
